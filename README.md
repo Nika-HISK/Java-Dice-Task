@@ -1,8 +1,8 @@
-# Dice Rolling Simulator in Java 🎲
+# Dice Rolling Simulator in Java 
 
 This is a simple Java console application that simulates rolling a specified number of six-sided dice. It prints the visual representation of each die rolled and displays the total of all rolls.
 
-## ✨ Features
+##  Features
 
 - Prompts the user to enter the number of dice to roll.
 - Randomly generates values between 1 and 6 for each die.
@@ -10,7 +10,7 @@ This is a simple Java console application that simulates rolling a specified num
 - Displays the total sum of all dice rolled.
 - Validates user input to ensure at least one die is rolled.
 
-## 🖥️ Example Output
+##  Example Output
 ```
 Enter the number of dice to roll:
 3
@@ -21,7 +21,7 @@ Enter the number of dice to roll:
 -----
 you rolled 3
 ```
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Clone or Download the Project
 
